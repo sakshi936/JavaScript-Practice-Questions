@@ -80,7 +80,7 @@ else
     console.log(true);
     else
     console.log(false);
-
+// NaN values 
     console.log('NaA values ');
 
     let a2 = Math.abs('srt');
@@ -98,7 +98,6 @@ else
     console.log(e2);
     console.log(f2);
    
-
 
 
 

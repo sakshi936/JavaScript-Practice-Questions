@@ -5,7 +5,7 @@
 
 const Fname ='Sakshi';
 const lname='Pandey';
-const marital_status ='Unmarried';
+const marital_status ='Single';
 const country ="India";
 const age =20;
 

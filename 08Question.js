@@ -5,4 +5,5 @@ let sentence = "You cannot end a sentence with because because because is a conj
 const word = "because";
 
 
+// console.log(sentence.indexOf(word));
 console.log(sentence.search(word));

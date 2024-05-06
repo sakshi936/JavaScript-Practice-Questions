@@ -3,3 +3,4 @@
 let sentence = "      JavaScript is the worlds most popular programming language.  ";
 
 console.log(sentence.trim());
+console.log(sentence);
