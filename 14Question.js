@@ -3,7 +3,7 @@
 function Slope(x1,y1,x2,y2){
 
     let m = (y2-y1)/(x2-x1);
-    console.log(m);
+    console.log(`slope m is : ${m}`);
 }
 
 Slope(2,2,6,10);

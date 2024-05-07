@@ -7,7 +7,7 @@
 
 
 
-const score = 56//prompt("Enter student's score!");
+const score = 85//prompt("Enter student's score!");
 
     if (score>=80 && score <=100)
         console.log("Grade - A");

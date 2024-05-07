@@ -3,3 +3,12 @@
 // import { country } from "./24Question/countries.mjs";
 
 // console.log(countryList);
+
+
+import { country } from './24Question/countries.mjs';
+
+if(country.find(e => e=='Ethiopia'))
+    console.log('ETHIOPIA');
+else
+    country.push('Ethiopia');
+

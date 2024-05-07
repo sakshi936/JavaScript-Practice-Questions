@@ -9,5 +9,5 @@ let b = prompt("Enter base : ");
       return a;
     };
 
-    console.log(area(b, h));
+    console.log(` area of the triangle ${area(b, h)}`);
 

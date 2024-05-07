@@ -7,3 +7,22 @@
 
 const Cart = ["Milk", "Coffee", "Tea", "Honey"];
 // let allergic=true;
+if(!Cart.includes('choclate')){
+    Cart.unshift('choclate');
+}
+
+console.log(Cart);
+
+if(!Cart.includes('Sugar'))
+        Cart.push('Sugar');
+
+console.log(Cart);
+
+let allergic = false
+
+if(allergic)
+        Cart.splice(Cart.indexOf('Honey'),1);
+console.log(Cart);    
+
+Cart.splice(Cart.indexOf('Tea'),1,'Green Tea');
+console.log(Cart);
