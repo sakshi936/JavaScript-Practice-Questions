@@ -1,1 +1,1 @@
-4
+arr.indexOf(element)
